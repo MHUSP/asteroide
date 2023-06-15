@@ -1,0 +1,3 @@
+C:/Users/pccasadell/Desktop/Aulaj/Musica/asteroides/cmake-build-debug/CMakeFiles/asteroides.dir
+C:/Users/pccasadell/Desktop/Aulaj/Musica/asteroides/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pccasadell/Desktop/Aulaj/Musica/asteroides/cmake-build-debug/CMakeFiles/rebuild_cache.dir
